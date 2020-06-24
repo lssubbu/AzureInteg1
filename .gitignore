@@ -1,3 +1,5 @@
 *.suo
 *bin
 *packages
+*.log
+*obj
