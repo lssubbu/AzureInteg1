@@ -211,6 +211,7 @@
     </None>
     <None Include="My Project\PublishProfiles\240620VM.pubxml" />
     <None Include="My Project\PublishProfiles\AzureInteg1240620 - Web Deploy.pubxml" />
+    <None Include="My Project\PublishProfiles\WinVM290620.pubxml" />
     <None Include="My Project\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <CustomToolNamespace>My</CustomToolNamespace>
